@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Riffify")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54437534ab846204826361a7ce576e79805c85ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Riffify")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Riffify")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -27,3 +27,4 @@ D:\C#_projects\Riffify\Riffify\obj\Debug\net8.0\refint\Riffify.dll
 D:\C#_projects\Riffify\Riffify\obj\Debug\net8.0\Riffify.pdb
 D:\C#_projects\Riffify\Riffify\obj\Debug\net8.0\Riffify.genruntimeconfig.cache
 D:\C#_projects\Riffify\Riffify\obj\Debug\net8.0\ref\Riffify.dll
+D:\C#_projects\Riffify\Riffify\obj\Debug\net8.0\Riffify.sourcelink.json
